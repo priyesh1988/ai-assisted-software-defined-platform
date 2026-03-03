@@ -75,7 +75,7 @@ Send JSON payload describing your infrastructure intent.
   "policy_result": "Additional approval required",
   "risk_result": {
     "risk_score": 70,
-    "approval_required": "DIRECTOR"
+    "approval_required": "Approvers"
   },
   "cost_estimate": {
     "estimated_monthly_cost_usd": 1250
@@ -106,7 +106,7 @@ Send JSON payload describing your infrastructure intent.
   "policy_result": "Additional approval required",
   "risk_result": {
     "risk_score": 70,
-    "approval_required": "DIRECTOR"
+    "approval_required": "Approvers"
   },
   "cost_estimate": {
     "estimated_monthly_cost_usd": 500
@@ -137,7 +137,7 @@ Send JSON payload describing your infrastructure intent.
   "policy_result": "Policy check passed",
   "risk_result": {
     "risk_score": 20,
-    "approval_required": "ENGINEER"
+    "approval_required": "Approvers"
   },
   "cost_estimate": {
     "estimated_monthly_cost_usd": 500
@@ -167,7 +167,7 @@ Send JSON payload describing your infrastructure intent.
   "policy_result": "Additional approval required",
   "risk_result": {
     "risk_score": 70,
-    "approval_required": "DIRECTOR"
+    "approval_required": "Approvers"
   },
   "cost_estimate": {
     "estimated_monthly_cost_usd": 2000
