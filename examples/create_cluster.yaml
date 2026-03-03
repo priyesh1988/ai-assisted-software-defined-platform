@@ -1,0 +1,6 @@
+
+resource: kubernetes_cluster
+provider: aws
+node_count: 5
+instance_type: m5.large
+criticality: high
